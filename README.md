@@ -15,6 +15,4 @@ This may or may not be then pushed to the [Official NerveRift Organisation](http
 
 The [NerveRift Open](https://github.com/NerveRiftOpen) Organisation is where contributers create or edit code that is often unrelated to the main goal at NerveRift.
 
-This is where contributers can prove their worth and be given a job at NerveRift.
-
 #### © NerveRift 2020
